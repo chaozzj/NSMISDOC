@@ -8,6 +8,20 @@
  * Website: http://themes.3rdwavemedia.com/
 */
 /* ======= Base ======= */
+.logo-left{
+  max-width: 5%;
+  position: absolute;
+  left: 20px;
+  top: 110px;
+}
+
+.logo-right{
+  max-width: 5%;
+  position: absolute;
+  right: 20px;
+  top: 110px;
+}
+
 body {
   font-family: 'Open Sans', arial, sans-serif;
   color: #494d55;
